@@ -1,11 +1,13 @@
 # Microsoft_Office_365
 TP Slow Transports - Microsoft Office 365
 
+
 **Objectif général :**
 
 Moderniser l'infrastructure numérique et les processus internes de SLOW TRANSPORTS afin d'améliorer l'efficacité opérationnelle, la gestion des données et la relation client, en s'appuyant sur des solutions Microsoft intégrées et la mise en place d’un service IT performant.
 
-**Présentation de l’entreprise**
+
+**Présentation de l’entreprise :**
 
 **Nom :** SLOW TRANSPORTS
 **Localisation :** Siège et dépôt à Ljubljana, Slovénie
@@ -19,10 +21,12 @@ Moderniser l'infrastructure numérique et les processus internes de SLOW TRANSPO
 - Dépôt
 - Direction
 
-**Problématique**
+**Problématique :**
+
 L'entreprise ne dispose pas de serveur physique sur site, ce qui limite la gestion des données, la collaboration interne et le service client.
 
-**Objectifs du projet**
+
+**Objectifs du projet :**
 
 1.Moderniser l'infrastructure informatique avec un serveur hybride.
 2.Créer un service IT pour accompagner la transformation numérique.
@@ -30,7 +34,8 @@ L'entreprise ne dispose pas de serveur physique sur site, ce qui limite la gesti
 4.Numériser les archives et faciliter la gestion des données.
 5.Utiliser les outils Microsoft pour améliorer la collaboration, la communication et le service client.
 
-**Solutions proposées**
+
+**Solutions proposées :**
 
 Mise en place d’un serveur hybride
 
@@ -42,7 +47,8 @@ Mise en place d’un serveur hybride
  - SharePoint
  - Dynamics
 
-**Intégration Microsoft 365**
+
+**Intégration Microsoft 365 :**
 
  - SharePoint : pour la gestion documentaire, les annonces et la communication interne
 - Teams : pour centraliser les échanges
@@ -51,30 +57,32 @@ Mise en place d’un serveur hybride
 - Power BI : tableaux de bord analytiques
 - Power Automate : automatisation de processus internes
 
-**Focus sur les outils et leurs apports**
 
-**1. Collaboration avec SharePoint**
+**Focus sur les outils et leurs apports :**
+
+**1. Collaboration avec SharePoint :**
 - Création d’un site de communication
 - Intégration avec Teams et Power Apps
 
-**2. CRM avec Dynamics 365**
+**2. CRM avec Dynamics 365 :**
 - Meilleure gestion client
 - Suivi personnalisé des prospects et des clients
 - Modules utilisés : Sales, Marketing, Customer Service
 
-**3. Analyse avec Power BI**
+**3. Analyse avec Power BI :**
 - Suivi des ventes, des RH, des approvisionnements
 - Prise de décisions basée sur des données visuelles et concrètes
 
-**4. Automatisation avec Power Automate**
+**4. Automatisation avec Power Automate :**
 - Intégration RH (onboarding, congés)
 - Notifications, gestion des formulaires, suivi des dépenses
 
-**5. Applications avec Power Apps**
+**5. Applications avec Power Apps :**
 - Création rapide d'applications internes et externes
 - Réduction des erreurs, gain de temps, productivité accrue
 
-**Conclusion**
+
+**Conclusion :**
 Le projet vise à transformer SLOW TRANSPORTS en une entreprise plus agile, numérique et performante grâce à l'intégration complète de solutions Microsoft, 
 à une gestion optimisée des données, et à une amélioration globale des processus internes et externes.
 
